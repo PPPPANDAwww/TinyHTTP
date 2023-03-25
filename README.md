@@ -1,5 +1,5 @@
 # TinyWebServer
-## 环境：Vmware fushion pro
+## 虚拟机：Vmware fushion pro
 ## 运行系统：ubuntu 20.04
 ## 使用语言：c++
 ## 功能：
